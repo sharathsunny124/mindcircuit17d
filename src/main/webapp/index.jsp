@@ -8,10 +8,10 @@
     <h1>iam sharath </h1>
 
     <!-- Allu Arjun Photo -->
-    <img src="https://wallpapers.com/images/featured/allu-arjun-4k-9qf0j9qf0j.jpg" 
+    <img src="https://www.facebook.com/GlobalAlluArjunFans/" 
          alt="Allu Arjun" 
          width="400" 
          style="border:5px solid black; border-radius:10px;">
 
 </body>
-
+</html>
